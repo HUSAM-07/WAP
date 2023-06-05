@@ -1,0 +1,13 @@
+
+
+site_name: CIIED Website
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - About CIIED: about.md
+  - Objectives: objectives.md
+  - Activities: activities.md
+  - Events: events.md
+  - Contact: contact.md
+
