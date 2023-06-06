@@ -1,0 +1,19 @@
+/* Dark Mode */
+
+body {
+    background-color: #212121;
+    color: #ffffff;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+  }
+  
+  a {
+    color: #ffffff;
+  }
+  
+  a:hover {
+    color: #000000;
+  }
+  
