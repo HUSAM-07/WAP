@@ -3,6 +3,10 @@
 site_name: CIIED Website
 theme:
   name: material
+  markdown_extensions:
+  - attr_list
+  - md_in_html
+
 nav:
   - Home: index.md
   - About CIIED: about.md
@@ -10,4 +14,6 @@ nav:
   - Activities: activities.md
   - Events: events.md
   - Contact: contact.md
+
+  
 
